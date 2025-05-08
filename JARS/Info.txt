@@ -1,0 +1,4 @@
+O último parametro está à espera do seguinte formato yyyy-mm-dd
+Caso a escolha seja dia ou periodo do dia, deve levar todos os valores da data.
+No caso da escolha ser o mês, só esta à espera de receber o ano e mês yyyy-mm
+Por último se a escolha for ano, apenas deve conter o ano yyyy.
